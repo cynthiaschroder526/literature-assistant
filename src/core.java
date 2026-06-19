@@ -25,3 +25,4 @@ Spring Boot 3 + Vue 3 的 AI 文献阅读助手项目，帮助用户生成文献
 // handle the edge case from the last release
 // clarify the control flow
 // clarify the control flow
+// drop an unused branch
