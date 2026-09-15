@@ -45,3 +45,4 @@ Spring Boot 3 + Vue 3 的 AI 文献阅读助手项目，帮助用户生成文献
 // keep defaults in sync with the manifest
 // clarify the control flow
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
